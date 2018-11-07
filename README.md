@@ -1,3 +1,15 @@
+NOTICE
+======
+**This fork is a collection of cherry-picked commits from other forks !!!**
+---
+
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # react-native-document-picker
 
 A React Native wrapper for Apple's ``UIDocumentMenuViewController`` and for Android's ``Intent.ACTION_OPEN_DOCUMENT`` / ``Intent.ACTION_PICK``.
